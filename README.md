@@ -39,10 +39,10 @@
 
 ### 步驟 1：取得程式碼
 
-Clone 本專案或直接下載 `index.html` (原 `linkcphoto.html`)。
+Clone 本專案或直接下載 `iphoto.html`。
 
 ```bash
-git clone https://github.com/gavintux/linkc-photo-space.git
+git clone https://github.com/gavintux/iPhoto.git
 
 ```
 
