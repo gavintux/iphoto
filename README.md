@@ -5,7 +5,7 @@
 一個輕量級、無需複雜建置流程（No-Build）的單頁應用程式（SPA）個人攝影藝廊。
 基於 React 與 Firebase 構建，支援 EXIF 自動讀取、地圖軌跡模式與時間軸檢視，完美紀錄生活與旅行的瞬間。
 
-🔗 **[線上展示 (Demo)](https://gavintux.github.io/yi/)**
+🔗 **[線上展示 (Demo)](https://gavintux.github.io/yi/demophoto.html)**
 
 ## ✨ 功能特色
 
