@@ -174,7 +174,7 @@ const SITE_CONFIG = {
 
 本專案採用 [MIT License](https://www.google.com/search?q=LICENSE) 授權。
 
-## 📮 聯絡與贊助
+## 📮 聯絡與贊助 (Support)
 
 如果您喜歡這個專案，歡迎透過以下方式聯繫作者或給予支持：
 
@@ -182,6 +182,4 @@ const SITE_CONFIG = {
 * **個人網站**: [Linkc Portal](https://gavintux.github.io/yi/)
 * **Blog**: [Linkc's Blog](https://2blog.ilc.edu.tw/linkc/)
 
-<a href="[https://www.buymeacoffee.com/gavintux](https://www.buymeacoffee.com/gavintux)" target="_blank">
-<img src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://www.google.com/search?q=https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
+<a href="https://www.buymeacoffee.com/gavintux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
